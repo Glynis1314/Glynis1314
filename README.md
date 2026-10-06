@@ -28,13 +28,13 @@ An automated website auditing platform built with Python, Selenium, and Streamli
 
 ### 💼 Experience
 
-**React.js Developer Intern — Suggesly**  
+**React.js Developer Intern - Suggesly**  
 Worked on an AI-powered sales platform, building React components, integrating REST APIs, debugging frontend issues, and collaborating through Git/GitHub.
 
 ### 🏆 Achievements
 
 - Solved **300+ DSA problems on LeetCode**
-- **Top 6 Finalist — Nexolve Hackathon**
+- **Top 6 Finalist - Nexolve Hackathon**
 - GitHub **Pull Shark**
 
 ### 📫 Connect
