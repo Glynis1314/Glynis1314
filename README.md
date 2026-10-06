@@ -39,7 +39,7 @@ Worked on an AI-powered sales platform, building React components, integrating R
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/glynisdmello/) • [Portfolio](https://portfolio-dashboard-beryl.vercel.app/)) • [LeetCode](https://leetcode.com/u/Glynis1/)
+[LinkedIn](https://www.linkedin.com/in/glynisdmello/) • [Portfolio](https://portfolio-dashboard-beryl.vercel.app/) • [LeetCode](https://leetcode.com/u/Glynis1/)
 
 ---
 
